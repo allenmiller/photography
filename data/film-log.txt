@@ -1,0 +1,321 @@
+$Revision: 1.9 $
+$Date: 2007/10/27 19:47:23 $
+
+45-1-1  45prescan001.tif  Lory SP
+45-1-2  45prescan002.tif  Lory SP
+45-1-3  45prescan003.tif  Lory SP
+45-1-4  45prescan004.tif  Lory SP - stem in snow
+45-2-1  45prescan005.tif  Pawnee NG - windmill distant
+45-2-2  45prescan006.tif  Pawnee NG - windmill closeup
+45-2-3  45prescan007.tif  Pawnee NG - Buttes in distance
+45-2-4  45prescan008.tif  Pawnee NG - Buttes in distance - ruined - light leak
+45-3-1  0009.tif Pawnee NG - shadow self portrait
+45-3-2  0010.tif Pawnee NG - hillside
+45-3-3  0011.tif Pawnee NG - Hillside - neg very thin
+45-3-4  0012.tif Pawnee NG - shadow self portrai
+45-4-1  0013.tif Unknown location (Lory?)
+45-4-2  0014.tif Unknown location (Lory?)
+45-4-3  0015.tif Unknown location (Lory?)
+45-4-4  0016.tif Unknown location (Lory?)
+
+45-5-1  0017.tif Near Horsetooth Res?
+45-5-2  0018.tif Near Horsetooth Res?
+45-5-3  0019.tif Near Horsetooth Res?
+45-5-4  0020.tif Near Horsetooth Res?
+
+45-006-1 0021.tif Shrub detail, Poudre Canyon, near Morraine Park
+45-006-2 0022.tif Shrub detail, Poudre Canyon, near Morraine Park
+45-006-3 0023.tif Poudre Canyon
+45-006-4 0024.tif RMNP, near Morraine Park, spoiled
+
+45-007-1 0025.tif RMNP, near Morraine Park, spoiled - light leak
+45-007-2 0026.tif RMNP, near Morraine Park
+45-007-3 0027.tif RMNP
+45-007-4 0028.tif RMNP Lumpy Ridge, Twin Owls
+
+45-008-1 0029.tif RMNP Lumpy Ridge, Twin Owls
+45-008-2 0030.tif Still Life Flowers
+45-008-3 0031.tif Still Life Flowers
+45-008-4 0032.tif Still Life Flowers - negative very thin
+
+45-009-1 0033.tif Still Life Flowers - negative very thin
+45-009-2 0034.tif Still Life Fruit
+45-009-3 0035.tif Still Life Fruit
+45-009-4 0036.tif RMNP - Twin Owls
+
+45-010-1 0037.tif RMNP - Twin Owls
+45-010-2 0038.tif RMNP - Twin Owls
+45-010-3 0039.tif RMNP - Twin Owls
+45-010-4 0040.tif RMNP - Twin Owls
+
+45-011-1 0041.tif RMNP - Twin Owls
+45-011-2 0042.tif 3V5 airport
+45-011-3 0043.tif from the air - streambed
+45-011-4 0044.tif from the air - waterhole.
+
+45-012-1 0045.tif from the air
+45-012-2 0046.tif from the air
+45-012-3 0047.tif Abandoned building in PNG
+45-012-4 0048.tif Elephant Toes Rock - Dinasaur NM.
+
+45-013-1 0049.tif Dinasaur?
+45-013-2 0050.tif Pictograph, Dinasaur?
+45-013-3 Empty
+45-013-4 Empty
+
+45-014-1 0051.tif Dinasaur?
+45-014-2 0052.tif Dinasaur?
+45-014-3 0053.tif Dead Deer @ Governor ?'s cabin
+45-014-4 Empty
+
+45-015-1 0054.tif Collapsed barn near Grover
+45-015-2 0055.tif Collapsed barn near Grover
+45-015-3 0056.tif Dinasaur?
+45-015-4 0057.tif Dinasaur?
+
+45-016-1 0058.tif Roger
+45-016-2 0059.tif Andrew falling backwards
+45-016-3 0060.tif Submarine in Kenosha(?)
+45-016-4 0061.tif Submarine in Kenosha(?)
+
+45-017-1 0062.tif Driftwood in Lake Michigan
+45-017-2 0063.tif Driftwood in Lake Michigan
+45-017-3 0064.tif Driftwood in Lake Michigan
+45-017-4 0065.tif Point Beach Lighthouse on Lake Michigan
+
+45-018-1 0066.tif Point Beach Lighthouse on Lake Michigan
+45-018-2 0067.tif Whispering Pines State Park, Wisconsin
+45-018-2 0068.tif Dinasaur(?)
+45-018-2 0069.tif Dinasaur(?)
+
+45-019-1 0070.tif Dinasaur(?)
+45-019-2 0071.tif Dinasaur(?)
+45-019-3 0072.tif Dinasaur(?)
+45-019-4 0073.tif Dinasaur(?)
+
+45-020-1 0074.tif Cabin Roosevelt NF
+45-020-2 0075.tif Cabin Roosevelt NF
+45-020-3 0076.tif Farmstead Pawnee NG
+45-020-4 0077.tif Farmstead Pawnee NG
+
+45-021-1 0078.tif Mummy Range(?)
+45-021-2 0079.tif Mummy Range(?)
+45-021-3 0080.tif Cabin Roosevelt NF
+45-021-4 0081.tif Cabin Roosevelt NF
+
+45-022-1 0082.tif Unknowm mtn lake
+45-022-2 0083.tif Unknowm mtn lake
+45-022-3 0084.tif Petit Grepon (?) RMNP
+45-022-4 0085.tif Petit Grepon (?) RMNP
+
+45-023-1 0086.tif Petit Grepon (?) RMNP
+45-023-2 EMPTY
+45-023-3 EMPTY
+45-023-4 EMPTY
+
+45-24-1 0087 Road going to Rawlins WY
+45-24-2 0088 Road going to Rawlins WY
+45-24-3 0089 Canyonlands NP, UT
+45-24-4 0090 Canyonlands NP, UT
+
+45-25-1 0091 Canyonlands NP, UT
+45-25-3 0092 Canyonlands NP, UT
+45-25-4 0093 Canyonlands NP, UT
+45-25-2 0094 Canyonlands NP, UT
+
+45-26-1 0095 Arches NP, UT
+45-26-2 0096 Arches NP, UT
+45-26-3 0097 Arches NP, UT
+45-26-4 0098 Arches NP, UT
+
+45-27-1 0099 Arches/Canyonlands
+45-27-2 0100 Arches/Canyonlands
+45-27-3 0101 Canyonlands
+45-27-4 0102 Canyonlands
+
+45-28-1 0103 Canyonlands
+45-28-2 0104 Canyonlands
+45-28-3 0105 Canyonlands
+45-28-4 0106 Canyonlands
+
+45-29-1 0107 Canyonlands
+45-29-2 0108 Canyonlands
+45-29-3 0109 Canyonlands
+45-29-4 0110 Canyonlands
+
+45-30-1 0111 Canyonlands
+45-30-2 0112 Canyonlands
+45-30-3 0113 Canyonlands
+45-30-4 0114 Canyonlands
+
+45-31-1 0115 Canyonlands
+45-31-2 0116 Canyonlands
+45-31-3 0117 Canyonlands
+45-31-4 0118 Canyonlands
+
+45-32-1 0119 Canyonlands
+45-32-2 0120 Canyonlands
+45-32-3 0121 Canyonlands
+45-32-4 EMPTY
+
+45-33-1 0122 Hudson
+45-33-2 0123 Hudson
+45-33-3 0124 Hudson
+45-33-4 0125 RMNP
+
+45-34-1 0126 Noku Crags
+45-34-2 0127 Hudson
+45-34-3 0128 Noku Crags
+45-34-4 0129 Hudson
+
+45-35-1 0130 Noku
+45-35-2 0131 Noku
+45-35-3 0132 Noku
+45-35-4 0133 Cameron Pass?
+
+45-36-*      Spoiled
+
+45-37-1 0134 
+45-37-2 0135
+45-37-3 0136
+45-37-4 0137
+
+45-38-1 0138
+45-38-2 0139
+45-38-3 0140
+45-38-4 0141
+
+File_location   Date_code  Description  Film_type   Shutter_speed Aperture Exposure_comments Camera Lens Filter Bellows_factor
+
+45-71-4 20031128-14    Reed Hogan 2
+45-72-1 20031128-01    Reed Hogan 1
+45-72-2 200311         High Spur Overlook (Reed Image #3)
+45-72-3 200311         Horseshoe Canyon Petroglyphs (Reed #4)
+45-72-4 200311         Horseshoe Canyon Petroglyphs (Reed #5?)
+45-73-1 20031128-02
+45-73-2 20031128-03
+45-73-3 20031128-04
+45-73-4 20031128-05
+45-74-1 20031128-06
+45-74-2 20031128-07
+45-74-3 20031128-08
+45-74-4 20031128-09
+45-75-1 20031128-10
+45-75-2 20031128-11
+45-75-3 20031128-13
+45-75-4 20031128-15
+45-76-1 20031128-16
+45-76-2 20031128-17
+45-76-3 20031128-18
+45-76-4 20031129-01
+45-77-1 20031129-02
+45-77-2 20031129-03
+45-77-3 20031129-04
+45-77-4 20031129-06
+45-78-1 20031129-07
+45-78-2 20031129-09
+45-78-3 20031129-10
+45-78-4 20031129-11
+45-79-1 20031129-12
+45-79-2 20031129-14
+45-79-3 20031129-15
+45-79-4
+45-92-4 20031129-13
+
+45-112-1 20070811-1   From Peter Estin hut
+45-112-2 20070811-2   From Peter Estin hut
+45-112-3 20070[89]??-1 100TMX Horseshoe Lake, Eureka Mtn from Hermit Pass Road, Sangre de Christo Mountains
+45-112-4 20070[89]??-2 100TMX Horseshoe Lake, Eureka Mtn from Hermit Pass Road, Sangre de Christo Mountains
+
+45-113-1 20070[89]??-3 E100VS Horseshoe Lake, Eureka Mtn from Hermit Pass Road, Sangre de Christo Mountains
+45-113-2 200709??-1 E100VS Rock Outcrop, Camp Hale
+45-113-3 200709??-2 100TMX Rock Outcrop, Camp Hale
+45-113-4 200709??-3 100TMX Rock Outcrop, Camp Hale
+
+45-114-1 200709??-4 E100VS Rock Outcrop, Camp Hale
+45-114-2 200709??-5 100TMX Beaver Trees, Camp Hale
+45-114-3 200709??-6 100TMX Beaver Trees, Camp Hale
+45-114-4 200709??-7 100TMX Beaver Trees, Camp Hale
+
+45-115-1 200709?a-1 100TMX Poudre River, Near Pingree Park
+45-115-2 200709?a-2 100TMX Poudre River, Near Pingree Park
+45-115-3 200709?a-3 100TMX Poudre River, Near Pingree Park
+45-115-4 EMPTY
+
+45-116-1 200709?b-1 E100VS Old Flowers Road, w/Roger Merrill
+45-116-2 200709?b-2 100TMX Old Flowers Road, w/Roger Merrill
+45-116-3 200709?b-3 E100VS Old Flowers Road, w/Roger Merrill
+45-116-4 200709?b-4 E100VS Old Flowers Road, w/Roger Merrill
+
+45-117-1 200709?c-1 E100VS Tigwon Road
+45-117-2 200709?c-2 E100VS Tigwon Road
+45-117-3 200709?c-3 100TMX Tigwon Road
+45-117-4 100709?c-6 100TMX Gilman
+
+45-118-1 200709?c-7 E100VS Gilman
+45-118-2 200709?c-8 100TMX Camp Hale
+45-118-3 200709?c-9 E100VS Camp Hale
+45-118-4 200709?c-10 E100VS Camp Hale
+
+45-119-1 200709??+1-1 E100VS Tiny waterfall, Dead End road near Camp Hale.
+45-119-2 200709??+1-2 E100VS Tiny waterfall, Dead End road near Camp Hale.
+45-119-3 200709?c-4 Tigwon Road
+45-119-4 200709?c-5 Tigwon Road
+
+45-120-1 200709??+1-3 E100VS Rock Outcrop, Camp Hale
+45-120-2 200709??+1-4 E100VS Rock Outcrop, Camp Hale
+45-120-3 200709??+1-5 E100VS Rock Outcrop, Camp Hale
+45-120-4 200709??+1-6 E100VS Beaver Trees.  Spoiled by light leak
+
+45-121-1 200709??+1-7 E100VS Beaver Trees.  Spoiled by light leak
+45-121-1 200709??+1-8 100TMX Beaver Trees.
+45-121-1 200709??+1-9 100TMX Beaver Trees.
+45-121-1 200709??+1-10 100TMX Beaver Trees.
+
+45-122-1 through 45-126-2 are Polaroid Type 55PN film taken in late
+2001, then misplaced and processed in September 2007.  I found about
+55 sheets of film, about 2/3 were spoiled from the developer gel
+drying out.
+
+45-122-1 2001???? 55PN Rock tower near the Grabens, Canyonlands NP
+45-122-2 2001???? 55PN Rock tower near the Grabens, Canyonlands NP
+45-122-3 2001???? 55PN Unknown Location, near Canyonlands NP
+45-122-4 2001???? 55PN Unknown Location, near Canyonlands NP
+
+45-123-1 2001???? 55PN The Grabens, Canyonlands NP
+45-123-2 2001???? 55PN The Grabens, Canyonlands NP
+45-123-3 2001???? 55PN The Grabens, Canyonlands NP
+45-123-4 2001???? 55PN The Grabens, Canyonlands NP
+		       
+45-124-1 2001???? 55PN Joint Trail, Canyonlands NP
+45-124-2 2001???? 55PN Below the Joint Trail, Canyonlands NP
+45-124-3 2001???? 55PN Hovenweep National Monument
+45-124-4 2001???? 55PN Hovenweep National Monument
+
+45-125-1 2001???? 55PN Hovenweep National Monument
+45-125-2 2001???? 55PN Hovenweep National Monument
+45-125-3 2001???? 55PN Hovenweep National Monument
+45-125-4 2001???? 55PN Sand Dunes National Monument
+
+45-126-1 2001???? 55PN Sand Dunes National Monument
+45-126-2 2001???? 55PN Sand Dunes National Monument
+45-126-3 20071018-1 100TMX Devil's Punchbowl, Dunn County WI
+45-126-4 20071018-2 RVP100 Devil's Punchbowl, Dunn County WI
+
+45-127-1 20071018-3 RVP100 Devil's Punchbowl, Dunn County WI
+45-127-2 20071018-4 E100G  Devil's Punchbowl, Dunn County WI
+45-127-3 20071018-5 100ACR Devil's Punchbowl, Dunn County WI
+45-127-4 20071018-6 100TMX Devil's Punchbowl, Dunn County WI
+
+45-128-1 20071020-1 RVP100 Lower Falls on the Kinnikinic and the Swinging Bridge, River Falls, WI
+45-128-2 20071020-2 100TMX Lower Falls on the Kinnikinic and the Swinging Bridge, River Falls, WI
+45-128-3 20071020-3 E100VS Upper Falls on the Kinnikinic
+45-128-4 20071020-4 E100VS Upper Falls on the Kinnikinic
+
+45-129-1 20071020-5 100TMX Upper Falls on the Kinnikinic
+45-129-2 20071020-6 100TMX Upper Falls on the Kinnikinic
+45-129-3 20071020-7 100TMX Upper Falls on the Kinnikinic
+45-129-4 20071020-8 100TMX Tree in the UWRF forest, River Falls WI
+
+45-130-1 20071020-9 RVP100 Tree in the UWRF forest, River Falls WI
+
